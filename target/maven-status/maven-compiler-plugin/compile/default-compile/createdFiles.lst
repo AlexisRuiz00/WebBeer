@@ -1,0 +1,5 @@
+controller\servlets\GetOneBeer.class
+model\Beer.class
+model\DAO\BeerDAO.class
+controller\Controller.class
+model\Wrapper.class
